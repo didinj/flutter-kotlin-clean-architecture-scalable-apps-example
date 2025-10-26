@@ -1,6 +1,6 @@
 # Flutter Clean Architecture: Build Scalable Apps Step-by-Step
 
-Read the full tutorial [here]().
+Read the full tutorial [here](https://www.djamware.com/post/68fd9dee1157e31c6604ab8f/flutter-clean-architecture-build-scalable-apps-stepbystep).
 
 A new Flutter project.
 
